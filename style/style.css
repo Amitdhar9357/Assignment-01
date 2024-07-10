@@ -311,3 +311,21 @@ text-align: center;
   
 }
 /* support section end  */
+/* footer start  */
+footer {
+  display: flex;
+  width: 1300px;
+  height: 90px;
+  justify-content:space-between;
+  
+}
+.h2 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 23px;
+  letter-spacing: 0%;
+  margin-left: 20px;
+}
+/* footer end */
