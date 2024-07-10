@@ -50,3 +50,116 @@ text-align: center;
   border-radius: 8px;
   background: rgb(13, 19, 33);
 }
+.second-section{
+  width: 900px;
+  height: 1200px;
+  margin: 30px auto;
+}
+
+.second-section-content {
+  
+  width: 800px;
+  height: 1100px;
+  border: 0.5px;
+  text-align: center;
+  margin: 30px auto;
+  
+}
+
+.second-section-fast {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+}
+   /* Group section start  */
+.Group1 {
+  display: flex;
+  justify-content: space-between;
+  text-align: justify;
+  align-items: center;
+  padding: 40px ;
+}
+.Group1-text h2 {
+  color: rgba(13, 19, 33, 0.7);
+  font-family: Azeret Mono;
+  font-size: 20px;
+  font-weight: 670;
+  line-height:30px;
+  margin: 10px;
+}
+.Group1-text p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 12px;
+  font-weight: 350;
+  margin: 10px;
+}
+.Group1-text button {
+  width: 100px;
+  height: 30px;
+  margin: 10px;
+}
+
+.Group2 {
+  display: flex;
+  justify-content: space-between;
+  text-align: justify;
+  align-items: center;
+  padding: 40px ;
+}
+.Group2-text h2 {
+  color: rgba(13, 19, 33, 0.7);
+  font-family: Azeret Mono;
+  font-size: 20px;
+  font-weight: 670;
+  line-height:30px;
+  margin: 10px;
+}
+.Group2-text p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 12px;
+  font-weight: 350;
+  margin: 10px;
+}
+.Group2-text button {
+  width: 100px;
+  height: 30px;
+  margin: 10px;
+}
+.Group3 {
+  display: flex;
+  justify-content: space-between;
+  text-align: justify;
+  align-items: center;
+  padding: 40px ;
+}
+.Group3-text h2 {
+  color: rgba(13, 19, 33, 0.7);
+  font-family: Azeret Mono;
+  font-size: 20px;
+  font-weight: 670;
+  line-height:30px;
+  margin: 10px;
+}
+.Group3-text p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 12px;
+  font-weight: 350;
+  margin: 10px;
+}
+.Group3-text button {
+  width: 100px;
+  height: 30px;
+  margin: 10px;
+}
+.second-section-btn {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 12px;
+  font-weight: 300;
+  text-decoration: none;
+}
+/* Group section end  */
